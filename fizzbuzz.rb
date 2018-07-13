@@ -11,6 +11,6 @@ end
 
 
 puts fizzbuzz(3)
-fizzbuzz(4)
+# fizzbuzz(4)
 puts fizzbuzz(6)
 puts fizzbuzz(15)
